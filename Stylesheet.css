@@ -1,0 +1,28 @@
+body{
+	background-color: lightgrey;
+}
+h1 {
+	background-color: skyblue ;
+	text-align: center;
+	border: 4px;
+	border-style: outset;
+	border-color: darkred;
+	border-width: 2px; 
+}
+h2{
+	color: brown;
+}
+p {
+	font-family: monospace;
+	font-size: 14px;
+}
+li {
+	color: green;
+}
+a {
+	text-decoration: none;
+	color: darkgreen;
+}
+a:hover, a:active {
+	background-color: red;
+}
